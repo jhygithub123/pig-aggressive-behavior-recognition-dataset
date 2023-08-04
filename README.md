@@ -1,3 +1,12 @@
 # pig-aggressive-behavior-recognition-dataset
 This project is used to publish the dataset of pig aggressive behavior recognition that we collected and produced.
-Since our dataset is still in the confidentiality period of the project, we cannot publish the dataset for the time being. When the confidentiality period of the project ends, we will publish this dataset.
+
+Paper: 《Efficient Aggressive Behavior Recognition of Pigs Based on Temporal Shift Module》
+
+link：https://pan.baidu.com/s/1Ez24CfSI8CdZ3Ze3046N0g 
+
+Please contact my email to obtain a password. 
+
+Email: jihengyi@cau.edu.cn
+
+If you find this dataset helpful, please quote to our paper.
