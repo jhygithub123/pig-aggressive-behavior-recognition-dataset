@@ -9,4 +9,4 @@ Please contact my email to obtain a password.
 
 Email: jihengyi@cau.edu.cn
 
-If you find this dataset helpful, please quote to our paper.
+If you find this dataset helpful, please cite to our paper.
