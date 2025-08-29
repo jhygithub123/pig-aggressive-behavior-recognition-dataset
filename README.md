@@ -5,7 +5,9 @@ Paper: 《Efficient Aggressive Behavior Recognition of Pigs Based on Temporal Sh
 
 link：https://pan.baidu.com/s/1Ez24CfSI8CdZ3Ze3046N0g 
 
-Please contact my email to obtain a password. 
+Password：1234
+
+如果链接失效了或者无法下载，请联系我
 
 Email: jihengyi@cau.edu.cn
 
